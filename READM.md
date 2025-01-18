@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install recat```
+
+sistema de registro 2
